@@ -1,4 +1,4 @@
-# DivisoresEPrimos
+# Divisores E Primos
  Aplicativo que devolve os divisores de um número e os números primos entre estas divisores
  
 - Dado um número de entrada, o programa deve calcular todos os divisores que compõem o número.
